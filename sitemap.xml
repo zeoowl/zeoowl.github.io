@@ -1,19 +1,17 @@
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <sitemap>
-        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-            <url>
-                <loc>https://zeoowl.github.com/</loc>
-                <lastmod>2021-07-14</lastmod>
-                <changefreq>monthly</changefreq>
-                <priority>1.0</priority>
-            </url>
-            <url>
-                <loc>https://zeoowl.github.com/lwp/aquarium</loc>
-                <lastmod>2021-07-14</lastmod>
-                <changefreq>monthly</changefreq>
-                <priority>1.0</priority>
-            </url>
-        </urlset>
-        <lastmod>2021-07-14T12:15:50+00:00</lastmod>
-    </sitemap>
-</sitemapindex>
+<sitemap>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+            <loc>https://zeoowl.github.com/</loc>
+            <lastmod>2021-07-14</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://zeoowl.github.com/lwp/aquarium</loc>
+            <lastmod>2021-07-14</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1.0</priority>
+        </url>
+    </urlset>
+    <lastmod>2021-07-14T12:15:50+00:00</lastmod>
+</sitemap>
