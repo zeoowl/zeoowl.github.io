@@ -1,0 +1,13 @@
+User-agent: *
+
+# Allow all search engines to crawl all pages
+Allow: /
+
+# Disallow crawling of assets folders (adjust paths if needed)
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://zeoowl.com/sitemap.xml
+
+# Inherit disallow rules from main domain's robots.txt (optional)
+Crawl-delay: 10
