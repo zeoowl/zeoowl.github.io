@@ -3,23 +3,65 @@
 
   <url>
     <loc>https://zeoowl.com/</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://policies.zeoowl.com/</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://policies.zeoowl.com/sitemap.xml</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://app.zeoowl.com/</loc>
+    <lastmod>2024-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://app.zeoowl.com/sitemap.xml</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://help.zeoowl.com/</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://help.zeoowl.com/sitemap.xml</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://link.zeoowl.com/</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://link.zeoowl.com/sitemap.xml</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
